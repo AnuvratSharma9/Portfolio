@@ -15,6 +15,7 @@ Skills & Tools Used
 
 Languages: SQL, Python
 Libraries: Pandas, Matplotlib, Seaborn,Numpy,pymysql
+
 Concepts: Data Cleaning, Feature Engineering, Exploratory Data Analysis, Visualization
 
 Outcome
